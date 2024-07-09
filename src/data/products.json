@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Ballpoint Pen",
+    "description": "Smooth writing ballpoint pen with a comfortable grip.",
+    "price": 1.99,
+    "image": "./images/ballpointpen.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Notebook",
+    "description": "100-page lined notebook for everyday use.",
+    "price": 3.49,
+    "image": "./images/note.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Stapler",
+    "description": "Durable stapler for all your office needs.",
+    "price": 5.99,
+    "image": "./images/blue-stapler.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Highlighter Set",
+    "description": "Set of 5 vibrant highlighters for studying and organizing.",
+    "price": 4.99,
+    "image": "./images/highlighter.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Paper Clips",
+    "description": "Pack of 100 metal paper clips.",
+    "price": 1.49,
+    "image": "./images/paper-clips.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Desk Organizer",
+    "description": "Multi-compartment desk organizer to keep your workspace tidy.",
+    "price": 9.99,
+    "image": "./images/deskOrganizer.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Sticky Notes",
+    "description": "Pack of 400 sticky notes in assorted colors.",
+    "price": 3.99,
+    "image": "./images/sticky-notes.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Binder Clips",
+    "description": "Pack of 12 binder clips, various sizes.",
+    "price": 2.99,
+    "image": "./images/binder-clips.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Scissors",
+    "description": "Stainless steel scissors with ergonomic handle.",
+    "price": 2.49,
+    "image": "./images/scissor.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Correction Tape",
+    "description": "Easy-to-use correction tape for clean and precise corrections.",
+    "price": 2.99,
+    "image": "./images/correction-tape.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Eraser",
+    "description": "High-quality eraser for clean erasing.",
+    "price": 0.99,
+    "image": "./images/eraser.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Ruler",
+    "description": "30cm transparent ruler with both metric and imperial measurements.",
+    "price": 1.49,
+    "image": "./images/ruler.jpeg"
+  }
+]
